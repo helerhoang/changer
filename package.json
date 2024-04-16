@@ -1,26 +1,26 @@
 {
-  "name": "Project-tea-sum-math",
+  "name": "laracati-sum",
   "version": "1.0.2",
   "description": "my package",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
-    "axios": "^0.21.4",
-    "deotheme": "^1.0.0",
-    "deo-vector-math": "^1.0.0",
-    "deo-big-factorial": "^1.0.0",
-    "summathd": "^1.0.0",
-    "mysumd": "^1.0.0",
-    "sum-math-deo2": "^1.0.0"
+    "project-tea-core-math": "^0.21.4",
+    "helertheme": "^1.0.0",
+    "project-tea-core-heler": "^1.0.0",
+    "heler-big-factorial": "^1.0.0",
+    "helersummathd": "^1.0.0",
+    "project-tea-sum-math": "^1.0.0",
+    "axios": "^1.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helerhoang/Project-tea-sum-math.git"
+    "url": "git+https://github.com/helerhoang/laracati-sum.git"
   },
   "bugs": {
-    "url": "https://github.com/helerhoang/Project-tea-sum-math/issues"
+    "url": "https://github.com/helerhoang/laracati-sum/issues"
   },
-  "homepage": "https://github.com/helerhoang/Project-tea-sum-math#readme",
+  "homepage": "https://github.com/helerhoang/laracati-sum#readme",
   "scripts": {
     "test": "test"
   },
